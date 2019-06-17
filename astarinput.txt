@@ -1,0 +1,26 @@
+23
+Agra Shimla 140
+Agra Gurgaon 118
+Arad Mathura 75
+Bhubaneshwar Kolkata 211
+Bhubaneshwar Puri 90
+Bhubaneshwar Balasore 101
+Bhubaneshwar Simlipal 85
+Bombay Pune 120
+Bombay Balasore 138
+Bombay Bhopal 146
+Pune Bangalore 75
+Ooty Vishakapattanam 86
+Kolkata Shimla 99
+Vishakapattanam Simlipal 98
+Lucknow Punjab 87
+Lucknow Patna 92
+Hyderabad Bangalore 70
+Hyderabad Gurgaon 111
+Rajasthan Mathura 71
+Rajasthan Shimla 151
+Balasore Bhopal 97
+Bhopal Shimla 80
+Simlipal Patna 142
+Agra
+Bhubaneshwar
